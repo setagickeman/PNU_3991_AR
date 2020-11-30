@@ -17,18 +17,11 @@
 
 ### روخانی کتاب Klaus-Dieter Schewe, Bernhard Thalheim - Design and Development of Web Information Systems-Springer Berlin Heidelberg (2019)
 
-5.0 		  6 minutes 27 seconds
-
-5.1		   4 minutes 30 seconds
-
-5.1.1		6 minutes 16 seconds
-
-5.1.2 	   8 minutes 17 seconds
-
-5.2 		  1 minute 20 seconds
-
-5.2.1		26 minutes 36 seconds
-
-5.2.2		17 minutes 45 seconds
-
-5.2.3		24 minutes 8 seconds
+- 5.0 		  6 minutes 27 seconds
+- 5.1		   4 minutes 30 seconds
+- 5.1.1		6 minutes 16 seconds
+- 5.1.2 	   8 minutes 17 seconds
+- 5.2 		  1 minute 20 seconds
+- 5.2.1		26 minutes 36 seconds
+- 5.2.2		17 minutes 45 seconds
+- 5.2.3		24 minutes 8 seconds
