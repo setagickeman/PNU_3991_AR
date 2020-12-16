@@ -19,7 +19,7 @@
 
 ## دروس ارشد
 
-[1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
+[1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/setagickeman/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
 
 --------------
 ## روز و ساعت ارائه دروس
