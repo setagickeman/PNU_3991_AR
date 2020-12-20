@@ -1,6 +1,6 @@
 # [PNU_3991_AR](https://github.com/setagickeman/PNU_3991_AR)
 
-<div dir="rtl">
+<div dir="ltr">
 
 # سید مهدی رفعت جاه
 
