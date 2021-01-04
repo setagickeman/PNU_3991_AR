@@ -9,6 +9,7 @@
 - [SOP](https://setagickeman.github.io/r/sop)
 - [Certificates](https://setagickeman.github.io/r/certificates)
 - [GitHub](https://github.com/setagickeman)
+- [ویدئو جلسه آموزش گیت و رفع اشکال](https://drive.google.com/file/d/1ybcYuUMOg3nAi0x36Hnod4-rgfnsckqK/view?usp=sharing)
 
 
 
