@@ -10,6 +10,18 @@
 - [GitHub](https://github.com/setagickeman)
 - [ویدئو جلسه آموزش گیت و رفع اشکال](https://drive.google.com/file/d/1ybcYuUMOg3nAi0x36Hnod4-rgfnsckqK/view?usp=sharing)
 
+
+
+------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/setagickeman/PNU_3991_AR/blob/main/_General/MR_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/setagickeman/PNU_3991_AR/blob/main/_General/MR_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس ارشد
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/setagickeman/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/MR_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+
 ------------------
 ## گروه ها
 
