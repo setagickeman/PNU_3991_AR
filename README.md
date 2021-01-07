@@ -1,3 +1,4 @@
+<div direction="rtl">
 # [PNU_3991_AR](https://github.com/setagickeman/PNU_3991_AR)
 
 # سید مهدی رفعت جاه
@@ -86,3 +87,5 @@
     <th>پنج شنبه</th>
   </tr>
 </table>
+
+</div>
