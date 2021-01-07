@@ -8,11 +8,15 @@
 # سید مهدی رفعت جاه
 
 - [PNU_3991_AR](https://github.com/setagickeman/PNU_3991_AR)
-- [Resume](https://setagickeman.github.io/r/) 
+- [Resume1](https://setagickeman.github.io/r/) 
+- [Resume2](https://setagickeman.github.io/r/index2.htm) 
 - [SOP](https://setagickeman.github.io/r/sop)
+- [SOP2](https://setagickeman.github.io/r/sop/index2.htm) 
 - [Certificates](https://setagickeman.github.io/r/certificates)
 - [GitHub](https://github.com/setagickeman)
 - [ویدئو جلسه آموزش گیت و رفع اشکال](https://drive.google.com/file/d/1ybcYuUMOg3nAi0x36Hnod4-rgfnsckqK/view?usp=sharing)
+- [فرم ارزیابی](https://github.com/setagickeman/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/MR_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+
 
 
 
@@ -33,9 +37,10 @@
 
 
 
-### روخانی کتاب  در پوشه با همین نام
 
 # CHAPTER 05 Pragmatics of Storyboarding
+
+### روخانی کتاب  در پوشه با همین نام
 
 From "Klaus-Dieter Schewe, Bernhard Thalheim - Design and Development of Web Information Systems-Springer Berlin Heidelberg (2019)"
 
