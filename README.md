@@ -1,4 +1,5 @@
-<div direction="rtl">
+<div dir="rtl">
+
 # [PNU_3991_AR](https://github.com/setagickeman/PNU_3991_AR)
 
 # سید مهدی رفعت جاه
